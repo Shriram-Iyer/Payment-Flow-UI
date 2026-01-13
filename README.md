@@ -21,8 +21,8 @@ A high-performance, 2-screen payment application built with **Astro** and **Soli
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/billeasy.git
-cd billeasy
+git clone https://github.com/Shriram-Iyer/Payment-Flow-UI.git
+cd Payment-Flow-UI
 
 # Install dependencies
 npm install
