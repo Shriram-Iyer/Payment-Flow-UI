@@ -6,7 +6,7 @@ A high-performance, 2-screen payment application built with **Astro** and **Soli
 
 ## 🌐 Deployment
 
-**Live Demo**: [https://bill-easy.vercel.app](https://bill-easy.vercel.app)
+**Live Demo**: [https://payment-flow-ui-alpha.vercel.app](https://payment-flow-ui-alpha.vercel.app)
 
 ---
 
