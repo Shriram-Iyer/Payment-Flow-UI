@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Custom theme configuration for Tailwind v4 */
+@theme {
+  --font-family-sans: 'Inter', system-ui, sans-serif;
+}
